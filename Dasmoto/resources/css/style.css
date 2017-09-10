@@ -1,0 +1,29 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+background-image: url(../img/pattern.jpeg);
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+}
+.category {
+  font-size: 32 px;
+}
+#brushes {
+  background-color: mediumspringgreen;
+  color: white;
+}
+#frames {
+  background-color: lightcoral;
+  color: white;
+}
+#paint {
+  background-color: skyblue;
+  color: white;
+}
+strong {
+  font-weight: bold;
+  color: blue;
+}
