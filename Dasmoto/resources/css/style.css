@@ -23,7 +23,7 @@ text-align: center;
   background-color: skyblue;
   color: white;
 }
-strong {
+.price {
   font-weight: bold;
   color: blue;
 }
