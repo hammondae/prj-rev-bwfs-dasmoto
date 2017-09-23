@@ -11,17 +11,17 @@ text-align: center;
 .category {
   font-size: 32 px;
 }
+#brushes, #frames, #paint {
+  color: white;
+}
 #brushes {
   background-color: mediumspringgreen;
-  color: white;
 }
 #frames {
   background-color: lightcoral;
-  color: white;
 }
 #paint {
   background-color: skyblue;
-  color: white;
 }
 .price {
   font-weight: bold;
